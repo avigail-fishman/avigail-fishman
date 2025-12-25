@@ -5,8 +5,8 @@ Avigail Soffer | Junior Software Developer
 </h1>
 
 <p style="font-size:15px; line-height:1.6;">
-Junior Software Developer with Full-Stack and UI/UX experience. 
-Hands-on work in web systems, team projects, and real-world development challenges. 
+Junior Software Developer with Full-Stack and UI/UX experience.  
+Hands-on work in web systems, team projects, and real-world development challenges.  
 Completed an introductory AI course.
 </p>
 
@@ -25,33 +25,37 @@ Completed an introductory AI course.
 <hr style="border:1px solid #30363d; margin:25px 0;" />
 
 <h2 style="font-size:20px;">Practical Experience</h2>
+
 <p style="font-size:14px; line-height:1.6;">
 <b>Practicum – Jerusalem Municipality</b><br/>
-Worked on a large, existing system. Focused on understanding system flows and integrating features into a live environment.<br/>
+Participated in the development of a large, existing production system with complex architecture.  
+Focused on analyzing system flows, understanding dependencies, and mapping data structures.  
+Integrated new features carefully into a live environment, collaborating with the team under tight deadlines.  
+Gained experience navigating and contributing to a high-priority, real-world system.  
 <b>Technologies:</b> Angular, C#, SQL
 </p>
 
 <p style="font-size:14px; line-height:1.6; margin-top:10px;">
 <b>Final Project – Training Management System</b><br/>
-Full-Stack web system with end-to-end features. Worked with GitHub flow.<br/>
+Designed and implemented a full-stack web system, delivering complete end-to-end functionality.  
+Managed development workflow using GitHub Flow, including branches, pull requests, and code reviews.  
+Focused on providing a smooth user experience while ensuring robust backend operations.  
 <b>Technologies:</b> React, Node.js, MongoDB
 </p>
 
 <hr style="border:1px solid #30363d; margin:25px 0;" />
 
 <h2 style="font-size:20px;">Selected Projects</h2>
-<ul style="font-size:14px; line-height:1.6;">
-  <li><b>Training Management System</b> – <a href="https://maalot360.onrender.com/">Live Demo</a></li>
-  <li><b>Python File Analysis</b> – <a href="https://github.com/avigail-fishman/PythonProject">GitHub</a></li>
-  <li><b>JavaScript Game</b> – <a href="https://github.com/avigail-fishman/JavaScript-project">GitHub</a></li>
-</ul>
+<p style="font-size:14px; line-height:1.6;">
+Various projects developed during studies and practice, demonstrating Full-Stack development skills, problem-solving, and teamwork.
+</p>
 
 <hr style="border:1px solid #30363d; margin:25px 0;" />
 
-<h2 style="font-size:20px;">Contact</h2>
+<h2 style="font-size:20px;">Let's Connect</h2>
 <p style="font-size:14px; line-height:1.6;">
-Jerusalem, Israel<br/>
-<a href="mailto:avigail8214@gmail.com" style="color:#58a6ff;">avigail8214@gmail.com</a>
+Always excited to explore new challenges, collaborate on interesting projects, and exchange ideas.  
+Feel free to check out my work and reach out to connect!
 </p>
 
 </div>
