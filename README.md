@@ -1,7 +1,7 @@
 <div style="background-color:#0d1117; color:#e6edf3; padding:40px; border-radius:12px; font-family:Arial, sans-serif;">
 
 <h1 style="font-size:28px; margin-bottom:10px;">
-Avigail Soffer | Junior Software Developer
+Avigail Soffer | Software Developer
 </h1>
 
 <p style="font-size:15px; line-height:1.6;">
