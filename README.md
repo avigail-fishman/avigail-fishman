@@ -19,7 +19,7 @@ Completed an introductory AI course.
 <b>Frontend:</b> React, Angular, HTML, CSS<br/>
 <b>Backend:</b> Node.js, .NET Core Web API<br/>
 <b>Databases:</b> SQL Server, MongoDB<br/>
-<b>Cloud:</b> AWS (basic)<br/>
+<b>Cloud:</b> AWS<br/>
 <b>UI/UX:</b> Screen planning and user experience design
 </p>
 
@@ -47,8 +47,7 @@ Focused on maintainable code, system reliability, and a clear, user-friendly int
 
 <h2 style="font-size:20px;">Selected Projects</h2>
 <p style="font-size:14px; line-height:1.6;">
-A selection of projects developed during studies and practical training, demonstrating software development skills,
-problem-solving abilities, and effective teamwork.
+Selected projects demonstrating software development skills, problem-solving abilities, and effective teamwork.
 </p>
 
 <hr style="border:1px solid #30363d; margin:25px 0;" />
