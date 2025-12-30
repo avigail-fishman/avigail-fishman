@@ -30,7 +30,8 @@ Completed an introductory AI course.
 <p style="font-size:14px; line-height:1.6;">
 <b>Practicum – Jerusalem Municipality</b><br/>
 Worked on a large-scale municipal production system with complex architecture and business logic.  
-Developed and integrated new screens and features into an existing live environment, requiring in-depth understanding of system flows, dependencies, and data structures.  
+Developed and integrated new screens and features into an existing live environment, Understanding how systems work
+, dependencies, and data structures.  
 Collaborated closely with the development team under tight deadlines, ensuring careful integration and system stability.  
 <b>Technologies:</b> Angular, C#, SQL
 </p>
